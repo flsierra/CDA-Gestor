@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Editar_Archivos" value="name:id_documento;datatype:int,name:descripcion;datatype:string,name:fecha;datatype:date,name:soporte;datatype:string" />
+	<infoitem key="UD_Editar_Documentos" value="name:id_documento;datatype:int,name:descripcion;datatype:string,name:fecha;datatype:date,name:soporte;datatype:string" />
+</info>

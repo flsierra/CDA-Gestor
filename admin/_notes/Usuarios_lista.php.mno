@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Lista_Usuarios" value="name:id_usuario;datatype:int,name:nombres_apellidos;datatype:string,name:identificacion;datatype:string,name:correo;datatype:string,name:telefono;datatype:string,name:rol;datatype:int,name:password;datatype:string" />
+	<infoitem key="UD_Datos_Usu" value="name:id_usuario;datatype:int,name:nombres_apellidos;datatype:string,name:identificacion;datatype:string,name:correo;datatype:string,name:telefono;datatype:string,name:rol;datatype:int,name:password;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:id_usuario;datatype:int,name:nombres_apellidos;datatype:string,name:identificacion;datatype:string,name:correo;datatype:string,name:telefono;datatype:string,name:rol;datatype:int,name:password;datatype:string" />
+	<infoitem key="UD_Busca_Usuarios" value="name:nombres_apellidos;datatype:string,name:identificacion;datatype:string,name:correo;datatype:string,name:telefono;datatype:string" />
+</info>

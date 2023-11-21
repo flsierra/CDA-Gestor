@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Busca_Usuario" value="name:id_usuario;datatype:int,name:nombres_apellidos;datatype:string,name:identificacion;datatype:string,name:correo;datatype:string,name:telefono;datatype:string,name:rol;datatype:int,name:password;datatype:string" />
+</info>
